@@ -1,6 +1,0 @@
-0 Calculos
-1 Caries
-2 Gingivitis
-3 Ulcera bucal
-4 Dientes descoloridos
-5 Dientes Normales
