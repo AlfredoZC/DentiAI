@@ -41,4 +41,4 @@ Access the app at: `http://127.0.0.1:8000/static/index.html`
 The project uses a custom trained YOLOv5 model (`best.pt`) located in `interfaz/best.pt`.
 
 ## 👤 Author
-[Your Name]
+Jose Alfredo Zambrana Cruz
